@@ -13,7 +13,7 @@ This project was based on the idea of implementing network seeding and traversal
 ### [Film review database project](https://github.com/Blamb2929/final-project-dm_final_ic)
 The aim of this project was to practice the use of SQL, APIs, SQLalchemy, Docker, and alembic to produce a functioning film review database.
 
-### [Text Sentiment analysis of British Royal Family and UK government speeches](https://github.com/Blamb2929/Text_Mining_Final_AAF
+### [Text Sentiment analysis of British Royal Family and UK government speeches](https://github.com/Blamb2929/Text_Mining_Final_AAF)
 The aim of this project was to analyse the correlation between the themes discussed in royal speeches and the Houses of Parliament using NLP methods.
 
 ### [Reinforcement learning Zombie Game](https://github.com/Blamb2929/final-project-dm_final_ic)
