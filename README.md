@@ -7,6 +7,9 @@ Master's thesis optimising delivery routing using a GAM choice model to optimall
 ### [Statistical Modelling of Galaxy Morphology](https://github.com/Blamb2929/SIM_FinalProject)
 Using the data provided by galaxy zoo, we used various machine learning methods to classify images of galaxies.
 
+### [THE COST OF REMOTENESS](https://github.com/Blamb2929/GeoSpatialAustraliaRoads)
+A Geospatial analysis of emergency healthcare access for Australians in remote areas.
+
 ### [Graph RAG subgraph retrieval methods](https://github.com/Blamb2929/graph-rag-subgraph-retreival)
 This project was based on the idea of implementing network seeding and traversal strategies to query documents, and comparing against traditional methods.
 
