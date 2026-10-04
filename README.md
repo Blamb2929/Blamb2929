@@ -10,12 +10,6 @@ Using the data provided by galaxy zoo, we used various machine learning methods 
 ### [THE COST OF REMOTENESS](https://github.com/Blamb2929/GeoSpatialAustraliaRoads)
 A Geospatial analysis of emergency healthcare access for Australians in remote areas.
 
-### [Graph RAG subgraph retrieval methods](https://github.com/Blamb2929/graph-rag-subgraph-retreival)
-This project was based on the idea of implementing network seeding and traversal strategies to query documents, and comparing against traditional methods.
-
-### [Film review database project](https://github.com/Blamb2929/final-project-dm_final_ic)
-The aim of this project was to practice the use of SQL, APIs, SQLalchemy, Docker, and alembic to produce a functioning film review database.
-
 ### [Text Sentiment analysis of British Royal Family and UK government speeches](https://github.com/Blamb2929/Text_Mining_Final_AAF)
 The aim of this project was to analyse the correlation between the themes discussed in royal speeches and the Houses of Parliament using NLP methods.
 
