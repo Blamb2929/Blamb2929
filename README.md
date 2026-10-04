@@ -19,5 +19,7 @@ The aim of this project was to practice the use of SQL, APIs, SQLalchemy, Docker
 ### [Text Sentiment analysis of British Royal Family and UK government speeches](https://github.com/Blamb2929/Text_Mining_Final_AAF)
 The aim of this project was to analyse the correlation between the themes discussed in royal speeches and the Houses of Parliament using NLP methods.
 
-### [Reinforcement learning Zombie Game](https://github.com/Blamb2929/final-project-dm_final_ic)
+### [Reinforcement learning Zombie Game](https://github.com/Blamb2929/zombies_rl_project)
 This project implements reinforcement learning (PPO) in order to play the game KnightsArchersZombies game provided by PettingZoo.
+
+
